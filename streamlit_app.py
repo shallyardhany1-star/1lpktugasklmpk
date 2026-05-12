@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("🎈 kimia ")
+st.title("🎈 new year new me ")
 st.write(
-    "Let's start building! For help and inspiration, head over to [docs.streamlit.io](https://docs.streamlit.io/)."
+    "Ayo bangun habit yang baik tiap hari nya!!! GO GO GO [docs.streamlit.io](https://docs.streamlit.io/)."
 )
