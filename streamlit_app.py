@@ -1,9 +1,9 @@
 import streamlit as st
 
-st.markdown("*Streamlit* is **really** ***cool***.")
+st.markdown("*Knowledge* is **Very** ***Important***.")
 st.markdown('''
-    :red[Streamlit] :orange[can] :green[write] :blue[text] :violet[in]
-    :gray[pretty] :rainbow[colors] and :blue-background[highlight] text.''')
+    :red[we] :orange[can] :green[change] :blue[the] :violet[world]
+    :gray[Go] :rainbow[to] and :blue-background[Emas] text.''')
 st.markdown("Here's a bouquet &mdash;\
             :tulip::cherry_blossom::rose::hibiscus::sunflower::blossom:")
 
